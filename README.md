@@ -1,5 +1,5 @@
 # DLSS
-Public repo for NVIDIA RTX DLSS SDK. 
+Public repo clone of the NVIDIA RTX DLSS SDK. 
 The DLSS Sample app is included only in the releases. 
 
 ## NVIDIA Image Scaling SDK
